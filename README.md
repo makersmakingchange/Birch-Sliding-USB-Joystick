@@ -11,7 +11,7 @@ These current devices exist as prototypes with some of the following updates on 
 - Increase in topper options
 - Mouse functionality
 
-<img src="Photos/Birch-Mini-Joystick-U.jpg" width="500" alt="Picture of the Birch Mini Joystick, USB variation, it is blue and small with MMC written on the side and an arrow on top.">
+<img src="Photos/Birch-Mini-Joystick-U.jpeg" width="500" alt="Picture of the Birch Mini Joystick, USB variation, it is blue and small with MMC written on the side and an arrow on top.">
 
 ## More info at
 - [Makers Making Change Project Page](<Add link>)
