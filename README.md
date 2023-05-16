@@ -47,7 +47,7 @@ The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the pa
 
 Print the components ...
 
-All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the files and individual print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
 ### 4. Assemble the Birch Mini Joystick...
 
