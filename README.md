@@ -30,7 +30,7 @@ If you would like to obtain a Birch Mini Joystick , you may submit a build reque
 ### 3. How to build this device for someone else
 
 If you have the skills and equipment to build this device, and would like to donate your time to create the switch for someone who needs it, visit the [MMC Maker Wanted](https://makersmakingchange.com/maker-wanted/) section.
----!>
+--->
 
 ## Getting Started
 
