@@ -1,8 +1,9 @@
 # Birch Mini Joystick
-The Birch Mini Joysticks are small, proportional joysticks that have a sliding motion and can be used for gaming. These joysticks have a small range of motion and are compatible with the Xbox Adaptive Controller (XAC). There are interchangable toppers and an optional camera mount adapter.
+The Birch Mini Joysticks are small, proportional joysticks that have a sliding motion and can be used for gaming. These joysticks have a small range of motion and are compatible with the Xbox Adaptive Controller (XAC). There are interchangable toppers and an optional camera mount adapter. There are two versions of this joystick, A (analog) and U (USB). 
 
-There are two versions of this joystick, A (analog) and U (USB). The non-USB version (A) has a 3.5 mm TRRS plug (the size of a headphone jack) and can be used to play games with the XAC. It may be compatible with other interfaces that use joysticks with 3.5 mm TRRS cables, such as the [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/).
-The USB version (U) plugs into USB and can be used directly with PC or can also be used with the XAC.
+The analog, non-USB, version (A) has a 3.5 mm TRRS plug (the size of a headphone jack) and can be used to play games with the XAC. To use it with the XAC, plug the joystick into either X1 or X2. It may be compatible with other interfaces that use joysticks with 3.5 mm TRRS cables, such as the [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/).
+
+The USB version (U) plugs into USB and can be used directly with PC or with the XAC.
 
 These current devices exist as prototypes with some of the following updates on the way:
 - Switch itegration
@@ -37,7 +38,9 @@ If you have the skills and equipment to build this device, and would like to don
 ## Getting Started
 
 ### 1. Verify Which Design the User Wants
-The Birch Mini Joystick comes in both USB (U) and Non-USB (A) format. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the XAC or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and allows for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate set of documentation for each joystick version.
+The Birch Mini Joystick comes in both USB (U) and non-USB (A) format. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the XAC or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and allows for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate set of documentation for each joystick version.
+
+This joystick is small, with a total height of 2.4 cm with the standard topper, and has a small range of motion of 2mm in each direction.
 
 Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
 
@@ -52,7 +55,7 @@ The Bill of Materials lists all of the parts and components required to build th
 
 ### 4. Print the 3D Printable components
 
-Print the components needed for the Birch Mini Joystick.
+Print the components needed for the Birch Mini Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
