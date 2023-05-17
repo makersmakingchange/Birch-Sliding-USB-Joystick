@@ -1,7 +1,7 @@
 # Birch Mini Joystick
 The Birch Mini Joysticks are small, proportional joysticks that have a sliding motion and can be used for gaming. These joysticks have a small range of motion and are compatible with the Xbox Adaptive Controller (XAC). There are interchangable toppers and an optional camera mount adapter.
 
-There are two versions of this joystick, A (analog) and U (USB). The non-USB version (A) has a 3.5 mm TRRS plug (the size of a headphone jack) and can be used to play games with the XAC. It may be compatible with other interfaces that use joysticks with 3.5 mm TRRS cables, such as the Enabled Controller.
+There are two versions of this joystick, A (analog) and U (USB). The non-USB version (A) has a 3.5 mm TRRS plug (the size of a headphone jack) and can be used to play games with the XAC. It may be compatible with other interfaces that use joysticks with 3.5 mm TRRS cables, such as the [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/).
 The USB version (U) plugs into USB and can be used directly with PC or can also be used with the XAC.
 
 These current devices exist as prototypes with some of the following updates on the way:
@@ -13,9 +13,11 @@ These current devices exist as prototypes with some of the following updates on 
 
 <img src="Photos/Birch-Mini-Joystick-U.jpeg" width="500" alt="Picture of the Birch Mini Joystick, USB variation, it is blue and small with MMC written on the side and an arrow on top.">
 
+<!---
 ## More info at
 - [Makers Making Change Project Page](<Add link>)
 - [Makers Making Change Forum Thread](<Add link>)
+--->
 
 <!--- 
 ## How to Obtain a Birch Mini Joystick
@@ -34,28 +36,33 @@ If you have the skills and equipment to build this device, and would like to don
 
 ## Getting Started
 
-### 1. Read the Makers Checklist
+### 1. Verify Which Design the User Wants
+The Birch Mini Joystick comes in both USB (U) and Non-USB (A) format. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the XAC or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and allows for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate set of documentation for each joystick version.
+
+Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
+
+### 2. Read the Makers Checklist
 
 The Makers Checklist contains a list of tasks to complete to build the device.
 
-### 2. Order the Off-The-Shelf Components
+### 3. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Device-Name_BOM.xlsx) lists all of the parts and components required to build the Birch Mini Joystick. The main joystick components needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The Bill of Materials lists all of the parts and components required to build the Birch Mini Joystick in the variation of your choice. The main joystick components needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 
-### 3. Print the 3D Printable components
+### 4. Print the 3D Printable components
 
-Print the components ...
+Print the components needed for the Birch Mini Joystick.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
-### 4. Assemble the Birch Mini Joystick...
+### 5. Assemble the Birch Mini Joystick...
 
-Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide for the variation of the joystick you are building for the tools and steps required to build each portion.
 
 ## Files
 ### Documentation
-| Document             | Version | Birch Mini Joystick - U 														| Birch Mini Joystick - A |
+| Document             | Version | [Birch Mini Joystick - U](/Documentation/Birch_Mini_Joystick-U) 														| [Birch Mini Joystick - A](/Documentation/Birch_Mini_Joystick-A)  |
 |----------------------|---------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
 | Design Rationale     | 0.2     | [Birch_Mini_Joystick_Design_Rationale](/Documentation/Birch_Mini_Joystick-U/Birch_Mini_Joystick_Design_Rationale_v0.2.pdf)       	| [Birch_Mini_Joystick_Design_Rationale](/Documentation/Birch_Mini_Joystick-A/Birch_Mini_Joystick_Design_Rationale_v0.2.pdf)      |
 | Maker Checklist      | 0.2     | [Birch_Mini_Joystick-U_Maker_Checklist](/Documentation/Birch_Mini_Joystick-U/Birch_Mini_Joystick-U_Maker_Checklist_v0.2.pdf)     	| [Birch_Mini_Joystick-A_Maker_Checklist](/Documentation/Birch_Mini_Joystick-A/Birch_Mini_Joystick-A_Maker_Checklist_v0.2.pdf)     |
@@ -69,13 +76,14 @@ Reference the [Assembly Guide](/Documentation/Device-Name_Assembly_Guide_v1.0.pd
 [CAD Files](/Design_Files)
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Print_Files)
 
 ## Attribution
 Designers:
  - Tyler Fentie, MMC
  - Josie Versloot, MMC
 
+The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 
 ## License
