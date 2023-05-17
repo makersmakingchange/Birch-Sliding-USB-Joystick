@@ -56,7 +56,7 @@ Print the components needed for the Birch Mini Joystick.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 
-### 5. Assemble the Birch Mini Joystick...
+### 5. Assemble the Birch Mini Joystick
 
 Reference the Assembly Guide for the variation of the joystick you are building for the tools and steps required to build each portion.
 
