@@ -73,10 +73,11 @@ Reference the Assembly Guide for the variation of the joystick you are building 
 | Changelog            | 0.2     | [Birch_Mini_Joystick-U_Changelog](/Documentation/Birch_Mini_Joystick-U/Birch_Mini_Joystick_Changelog_v0.2.pdf)     			| [Birch_Mini_Joystick-A_Changelog](/Documentation/Birch_Mini_Joystick-A/Birch_Mini_Joystick_Changelog_v0.2.pdf)     |
 
 ### Design Files
-[CAD Files](/Design_Files)
+ - [CAD Files](/Design_Files)
 
 ### Build Files
  - [3D Printing Files](/Build_Files/3D_Print_Files)
+ - [Firmware](/Build_Files/Software/OpenAT_Joystick_Software_Birch)
 
 ## Attribution
 Designers:
