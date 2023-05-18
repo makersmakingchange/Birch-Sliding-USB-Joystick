@@ -1,5 +1,5 @@
 # Birch Mini Joystick
-The Birch Mini Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming. It has a small range of motion of approximately ±2mm, and has interchangable toppers and an optional camera mount adapter. The Birch Mini Joystick is available in two variants: a USB variant (U) and an analog, non-USB variant (A). The joystick and enclosure are the same in both variants and differ by the cable and internal electronics.
+The Birch Mini Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming. It has a small range of motion of ±2mm and requires approximately 115 grams-force to fully deflect. This joystick has interchangable toppers and an optional camera mount adapter. The Birch Mini Joystick is available in two variants: a USB variant (U) and an analog, non-USB variant (A). The joystick and enclosure are the same in both variants and differ by the cable and internal electronics.
 
 The USB variant (U) has a cable with a USB-A connector. It acts as a USB HID gamepad with a single joystick and is compatible with a variety of devices including PC and the USB ports of the Microsoft Xbox Adaptive Controller. The deadzone of this variant can be adjusted through a serial interface.
 
