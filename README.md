@@ -82,19 +82,21 @@ Reference the Assembly Guide for the variation of the joystick you are building 
  - [3D Printing Files](/Build_Files/3D_Print_Files)
  - [Firmware](/Build_Files/Software/OpenAT_Joystick_Software_Birch)
 
-## Attribution
-Designers:
- - Tyler Fentie, MMC
- - Josie Versloot, MMC
-
-The documentation template was created by Makers Making Change and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
-
-
 ## License
-Everything needed or used to design, make, test, or prepare the Birch Mini Joystick is licensed under the CERN 2.0 Permissive license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-P) . 
 
-Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Birch Mini Joystick are published under a Creative Commons Attribution-ShareAlike 4.0 license https://creativecommons.org/licenses/by-sa/4.0/ (CC BY-SA 4.0).
+Everything needed or used to design, make, test, or prepare the Birch Mini Joystick is licensed under the CERN 2.0 Weakly Reciprocal license <https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2> (CERN-OHL-W).
 
+Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Oak Compact Joystick are published under a Creative Commons Attribution-ShareAlike 4.0 license <https://creativecommons.org/licenses/by-sa/4.0/> (CC BY-SA 4.0).
+
+## Attribution
+
+Hardware and enclosure design: Tyler Fentie and Josie Versloot, Neil Squire
+
+USB Variant software: Milad Hajihassan, Neil Squire
+
+The USB variant software utilizes the [Adafruit TinyUSB Library for Arduino](https://github.com/adafruit/Adafruit_TinyUSB_Arduino) which is made available under an [MIT license](https://github.com/adafruit/Adafruit_TinyUSB_Arduino/blob/master/LICENSE).
+
+The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
 ---
 
