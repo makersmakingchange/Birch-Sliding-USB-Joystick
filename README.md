@@ -1,5 +1,5 @@
 # Birch Mini Joystick
-The Birch Mini Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming. It has a small range of motion of ±2mm and requires approximately 115 grams-force to fully deflect. This joystick has interchangable toppers and an optional camera mount adapter. The Birch Mini Joystick is available in two variants: a USB variant (U) and an analog, non-USB variant (A). The joystick and enclosure are the same in both variants and differ by the cable and internal electronics.
+The Birch Mini Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming. It has a small range of motion of ±2mm and requires approximately 115 grams-force to fully deflect. It is low profile, with a height of 2.4 mm with the standard topper. This joystick has interchangable toppers and an optional camera mount adapter. The Birch Mini Joystick is available in two variants: a USB variant (U) and an analog, non-USB variant (A). The joystick and enclosure are the same in both variants and differ by the cable and internal electronics.
 
 The USB variant (U) has a cable with a USB-A connector. It acts as a USB HID gamepad with a single joystick and is compatible with a variety of devices including PC and the USB ports of the Microsoft Xbox Adaptive Controller. The deadzone of this variant can be adjusted through a serial interface.
 
@@ -41,8 +41,6 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Confirm Which Variant Is Required
 The Birch Mini Joystick comes in both USB (U) and non-USB (A) variants. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the Microsoft Xbox Adaptive Controller (XAC) or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and emulates an HID gamepad allowing for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate sets of documentation for each joystick variant.
-
-This joystick is small, with a total height of 2.4 cm with the standard topper, and has a small range of motion of 2mm in each direction.
 
 Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
 
