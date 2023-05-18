@@ -38,7 +38,7 @@ If you have the skills and equipment to build this device, and would like to don
 ## Getting Started
 
 ### 1. Verify Which Design the User Wants
-The Birch Mini Joystick comes in both USB (U) and non-USB (A) format. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the XAC or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and allows for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate set of documentation for each joystick version.
+The Birch Mini Joystick comes in both USB (U) and non-USB (A) format. The non-USB version uses a [TRRS](https://www.sparkfun.com/products/11580) lead to conncet to an existing gamepad such as the XAC or [Enabled Controller](https://makersmakingchange.com/project/enabled-controller/). The USB version has its own microcontroller and allows for direct PC use as well as some customisation of the joystick response profile. Ask the user which one they would like. There are separate sets of documentation for each joystick version.
 
 This joystick is small, with a total height of 2.4 cm with the standard topper, and has a small range of motion of 2mm in each direction.
 
