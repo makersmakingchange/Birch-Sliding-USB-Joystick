@@ -1,0 +1,7 @@
+------BIRCH MINI JOYSTICK------
+           Changelog
+===============================
+
+Version 0.2 	Date 05/18/2023
+ - Initial commit
+ - Birch Mini joystick with 5 optional toppers and an optional camera mount adapter
