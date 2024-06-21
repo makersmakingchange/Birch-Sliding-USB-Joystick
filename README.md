@@ -5,11 +5,10 @@ The Birch Sliding USB Joystick has a cable with a USB-A connector. It acts as a 
 
 <img src="Photos/Birch-Mini-Joystick-U.jpeg" width="500" alt="Picture of the Birch Sliding USB Joystick, it is blue and small with MMC written on the side and an arrow on top.">
 
-<!---
+
 ## More info at
-- [Makers Making Change Project Page](<Add link>)
-- [Makers Making Change Forum Thread](<Add link>)
---->
+- [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/birch-sliding-usb-joystick/01tJR0000009357YAA)
+
 
 ## How to Obtain a Birch Sliding USB Joystick
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -18,7 +17,7 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-If you would like to obtain a Birch Sliding USB Joystick , you may submit a build request through the [MMC Library Page](https://makersmakingchange.com/project/birch-sliding-usb-joystick/). The requestor is responsible for the cost of materials and any shipping.
+If you would like to obtain a Birch Sliding USB Joystick , you may submit a build request through the [MMC Library Page](https://www.makersmakingchange.com/s/product/birch-sliding-usb-joystick/01tJR0000009357YAA). The requestor is responsible for the cost of materials and any shipping.
 
 ### 3. How to build this device for someone else
 
