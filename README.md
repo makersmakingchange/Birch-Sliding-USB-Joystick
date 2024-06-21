@@ -64,7 +64,7 @@ Reference the Assembly Guide section in the [Maker Guide](/Documentation/Birch_J
 | Design Rationale     | 1.0     | [Birch_Joystick_Design_Rationale](/Documentation/Birch_Joystick_Design_Rationale.pdf)    | 
 | Maker Guide          | 1.0     | [Birch_Joystick_Maker_Guide](/Documentation/Birch_Joystick_Maker_Guide.pdf)     	        | 
 | Bill of Materials    | 1.0     | [Birch_Joystick_Bill_of_Materials](/Documentation/Birch_Joystick_BOM.csv)     		    | 
-| User Guide           | 1.0     | [Birch_Mini_Joystick-U_User_Guide](/Documentation/Birch_Joystick_User_Guide.pdf)    	    |
+| User Guide           | 1.0     | [Birch_Joystick_User_Guide](/Documentation/Birch_Joystick_User_Guide.pdf)    	    |
 | Changelog            | 1.0     | [CHANGES](/CHANGES.txt)     			| 
 
 ### Design Files
@@ -88,7 +88,7 @@ Contributors
 - Milad Hajihassan, Neil Squire. Coding.
 
 
-The USB variant software utilizes the [Adafruit TinyUSB Library for Arduino](https://github.com/adafruit/Adafruit_TinyUSB_Arduino) which is made available under an [MIT license](https://github.com/adafruit/Adafruit_TinyUSB_Arduino/blob/master/LICENSE).
+The joystick software utilizes the [Adafruit TinyUSB Library for Arduino](https://github.com/adafruit/Adafruit_TinyUSB_Arduino) which is made available under an [MIT license](https://github.com/adafruit/Adafruit_TinyUSB_Arduino/blob/master/LICENSE).
 
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
