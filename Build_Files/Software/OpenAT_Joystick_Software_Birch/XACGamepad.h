@@ -77,7 +77,7 @@ XACGamepad::XACGamepad(void)
 {
   this->usb_hid.setPollInterval(1);
   this->usb_hid.setReportDescriptor(desc_hid_report, sizeof(desc_hid_report));
-  this->usb_hid.setStringDescriptor("OpenAT Joystick");
+  this->usb_hid.setStringDescriptor("OpenAT Joystick - Birch");
 }
 
 void XACGamepad::begin(void)

@@ -2,9 +2,18 @@
 * File: OpenAT_Joystick_Software_SlidingThumbstick.ino
 * Software: OpenAT Joystick - Sliding Analog Thumbstick
 * Developed by: MakersMakingChange
-* Version: (10 November 2022) 
-* Copyright Neil Squire Society 2022. 
-* License: This work is licensed under the CC BY SA 4.0 License: http://creativecommons.org/licenses/by-sa/4.0 .
+* Version: (19 July 2023) 
+  License: GPL v3
+
+  Copyright (C) 2023 Neil Squire Society
+  This program is free software: you can redistribute it and/or modify it under the terms of
+  the GNU General Public License as published by the Free Software Foundation,
+  either version 3 of the License, or (at your option) any later version.
+  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+  without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+  See the GNU General Public License for more details.
+  You should have received a copy of the GNU General Public License along with this program.
+  If not, see <http://www.gnu.org/licenses/>
 */
 #include <EEPROM.h>
 #include "XACGamepad.h"
@@ -655,7 +664,7 @@ void setJoystickDeadZone(bool responseEnabled, bool apiEnabled, String optionalP
 
 
 //***CALCULATE THE MAGNITUDE OF A VECTOR***//
-// Function   : isStrNumber
+// Function   : calcMag
 //
 // Description: This function calculates the magntidue of a vector using the x and y values.
 //              It returns a double containing the magnitude of the vector.

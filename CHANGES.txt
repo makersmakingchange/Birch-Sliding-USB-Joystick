@@ -2,6 +2,14 @@
            Changelog
 ===============================
 
+Version 1.0	Date 13/06/2024
+ - Renamed to Birch Sliding USB Joystick from Birch Mini Joystick
+ - Seperated the USB and Analog versions
+	- Analog version was redesigned and named Aspen Sliding Joystick
+	- Analog version was cleaned out of this repository 
+ - Assembly Guide, 3D Printing Guide, and Maker Checklist combined into Maker Guide
+ - Removed Microsoft Word document changelog
+
 Version 0.2 	Date 05/18/2023
  - Initial commit
  - Birch Mini joystick with 5 optional toppers and an optional camera mount adapter
