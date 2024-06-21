@@ -3,7 +3,7 @@ The Birch Sliding USB Joystick is a small, proportional joystick that has a slid
 
 The Birch Sliding USB Joystick has a cable with a USB-A connector. It acts as a USB HID gamepad with a single joystick and is compatible with a variety of devices including PC and the USB ports of the Microsoft Xbox Adaptive Controller. The deadzone can be adjusted through a serial interface.
 
-<img src="Photos/Birch-Mini-Joystick-U.jpeg" width="500" alt="Picture of the Birch Sliding USB Joystick, it is blue and small with MMC written on the side and an arrow on top.">
+<img src="Photos/Birch-Sliding-USB-Joystick.jpeg" width="500" alt="Picture of the Birch Sliding USB Joystick, it is blue and small with MMC written on the side and an arrow on top.">
 
 
 ## More info at
