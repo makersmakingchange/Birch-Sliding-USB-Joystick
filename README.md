@@ -3,12 +3,14 @@ The Birch Sliding USB Joystick is a small, proportional joystick that has a slid
 
 The Birch Sliding USB Joystick has a cable with a USB-A connector. It acts as a USB HID gamepad with a single joystick and is compatible with a variety of devices including PC and the USB ports of the Microsoft Xbox Adaptive Controller. The deadzone can be adjusted through a serial interface.
 
-<img src="Photos/Birch-Sliding-USB-Joystick.jpeg" width="500" alt="Picture of the Birch Sliding USB Joystick, it is blue and small with MMC written on the side and an arrow on top.">
+<img src="Photos/Birch-Sliding-USB-Joystick.jpeg" height="250" alt="Picture of the Birch Sliding USB Joystick, it is blue and small with MMC written on the side and an arrow on top.">
 
 
 ## More info at
 - [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/birch-sliding-usb-joystick/01tJR0000009357YAA)
 
+## OpenAT Joysticks
+This design is part of the [OpenAT Joystick Project](https://github.com/makersmakingchange/OpenAT-Joysticks), a collection of open source designs for digital access and adapted gaming.  
 
 ## How to Obtain a Birch Sliding USB Joystick
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
@@ -28,7 +30,7 @@ If you have the skills and equipment to build this device, and would like to don
 ### 1. Verify Joystick Type
 The Birch Sliding USB Joystick is a USB joystick that emulates an HID gamepad allowing use either directly with a PC or with the Microsoft Xbox Adaptive Controller (XAC). Verify that this is the type of joystick the user would like. 
 
-If they want an analog joystick with the same sliding motion instead, they should be directed to the Aspen Sliding Joystick. Note: the Aspen Sliding Joystick is compatible with the Sony Access Controller, but the Birch Sliding USB Joystick is not. 
+If they want an analog joystick with the same sliding motion instead, they should be directed to the [Aspen Sliding Joystick](https://github.com/makersmakingchange/Aspen-Sliding-Joystick). Note: the Aspen Sliding Joystick is compatible with the Sony Access Controller, but the Birch Sliding USB Joystick is not. 
 
 <!---
 Other available joysticks can be found through the [Joystick Selection Guide](https://makersmakingchange.com/resource/analog-joystick-selection-guide/)
@@ -92,8 +94,9 @@ The joystick software utilizes the [Adafruit TinyUSB Library for Arduino](https:
 
 The documentation template was created by Makers Making Change / Neil Squire and is used under a CC BY-SA 4.0 license. It is available at the following link: https://github.com/makersmakingchange/OpenAT-Template
 
----
+----
 
+<!-- ABOUT MMC START -->
 ## About Makers Making Change
 [<img src="https://raw.githubusercontent.com/makersmakingchange/makersmakingchange/main/img/mmc_logo.svg" width="500" alt="Makers Making Change Logo">](https://www.makersmakingchange.com/)
 
@@ -112,3 +115,4 @@ Makers Making Change leverages the capacity of community based Makers, Disabilit
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.makersmakingchange.com/) or [contact us](https://www.makersmakingchange.com/s/contact).
+<!-- ABOUT MMC END -->
